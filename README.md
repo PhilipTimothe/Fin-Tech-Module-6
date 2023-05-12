@@ -1,19 +1,17 @@
 # Fin-Tech-Module-6
-This module allow the exploration of tools such that we can make api calls, make suggestable interpretations from forcasting models; directly coming from Monte Carlo simulations.
+This module allow the exploration of tools such that we can chart Hvplots, making a more interactive user experience
 
 ---
 
 ## Technologies
 
-Python, Path, Pandas, os, requests, json, dotenv, alpaca_trade_api, MCForecastTools, %matplotlib inline
+Python, Path, Pandas, hvplot
 
 ---
 
 ## Installation Guide
 
 Create a dev environment.  Run module via Jupyter Lab. 
-
-pip install python-dotenv
 
 ---
 
